@@ -1,0 +1,12 @@
+# Ignore virtual environment directories
+.venvs/
+
+# Ignore .env file
+.env
+
+# # Chroma database
+# chroma_db/
+
+# # IDE
+# .vscode/
+
