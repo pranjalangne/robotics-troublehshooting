@@ -4,8 +4,8 @@
 # Ignore .env file
 .env
 
-# # Chroma database
-# chroma_db/
+# Chroma database
+chroma_db/
 
 # # IDE
 # .vscode/
