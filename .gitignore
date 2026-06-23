@@ -7,6 +7,6 @@
 # Chroma database
 chroma_db/
 
-# # IDE
-# .vscode/
+*.pyc
 
+__pycache__/
